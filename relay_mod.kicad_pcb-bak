@@ -1762,12 +1762,12 @@
       (xy 0.6604 -0.41402) (xy 0.56134 -0.54102) (xy 0.43942 -0.64516) (xy 0.29718 -0.72136)) (layer B.SilkS) (width 0.01))
   )
 
-  (module OSHWA:OSHW_Mono_0.1_Scale (layer B.Cu) (tedit 5FA45324) (tstamp 5F677CE3)
+  (module OSHWA:OSHW_Mono_0.1_Scale (layer B.Cu) (tedit 5FA45412) (tstamp 5F677CE3)
     (at 146.431 88.138 90)
     (fp_text reference OSHW_Mono_0.1_Scale (at 0 4.132151 90) (layer B.SilkS) hide
       (effects (font (size 1.524 1.524) (thickness 0.3048)) (justify mirror))
     )
-    (fp_text value CR00001 (at 0 -1.8 90) (layer B.SilkS)
+    (fp_text value CR00001 (at 0 -1.8 -90) (layer B.SilkS)
       (effects (font (size 0.59 0.59) (thickness 0.08)) (justify mirror))
     )
     (fp_poly (pts (xy 0.740946 0.350373) (xy 0.871253 0.350373) (xy 0.965841 -0.451314) (xy 1.078289 0.079175)
